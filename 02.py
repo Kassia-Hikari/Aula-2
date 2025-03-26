@@ -1,0 +1,6 @@
+n1 = int(input('Digite um numero: '))
+print(type(n1))
+letra = input('Digite uma palavra: ')
+print(type(letra))
+teste = bool(input('Voce é um robo?: '))
+print(type(teste))
